@@ -1,0 +1,818 @@
+station_id,station_name,out_count,in_count,net_change,coordinate_status
+8179.03,Walton Ave & E 168 St,1,0,-1,cluster
+6839.10,Grand Army Plaza & Central Park S,3,2,-1,cluster
+5018.06,Knickerbocker Ave & Thames St,1,0,-1,cluster
+4461.04,DeKalb Ave & Vanderbilt Ave,1,2,1,cluster
+5105.01,Liberty St & Broadway,2,0,-2,cluster
+6131.12,Madison Ave & E 26 St,1,0,-1,cluster
+5755.14,University Pl & E 8 St,2,2,0,cluster
+7354.01,Central Park West & W 85 St,3,2,-1,cluster
+6122.09,2 Ave & E 29 St,1,2,1,cluster
+5027.02,Bushwick Ave & McKibbin St,1,0,-1,cluster
+5442.09,Manhattan Ave & Leonard St,1,1,0,cluster
+5388.01,Kent Ave & Grand St,1,2,1,cluster
+5045.05,Division Ave & Hooper St,1,0,-1,cluster
+7407.13,E 102 St & 1 Ave,2,2,0,cluster
+7738.04,Adam Clayton Powell Blvd & W 126 St,2,0,-2,cluster
+6948.10,Broadway & W 58 St,4,6,2,cluster
+6254.06,Center Blvd & 48 Ave,1,0,-1,cluster
+7520.07,Columbus Ave & W 95 St,2,0,-2,cluster
+4377.04,Cambridge Pl & Gates Ave,1,0,-1,cluster
+6224.06,8 Ave & W 24 St,1,0,-1,cluster
+6584.12,E 47 St & Park Ave,1,2,1,cluster
+6290.06,41 Ave & 77 St,1,0,-1,cluster
+5602.06,Greene St & Prince St,1,0,-1,cluster
+7524.16,Riverside Dr & W 91 St,2,0,-2,cluster
+6847.02,Broadway & W 56 St,1,0,-1,cluster
+6459.07,W 30 St & 10 Ave,2,2,0,cluster
+6535.04,W 34 St & Hudson Blvd E,2,1,-1,cluster
+7610.13,W 104 St & Amsterdam Ave,4,0,-4,cluster
+6492.04,W 33 St & 10 Ave,1,2,1,cluster
+6560.14,W 40 St & 7 Ave,3,0,-3,cluster
+6389.09,E 39 St & Lexington Ave,1,3,2,cluster
+5297.02,Vesey Pl & River Terrace,3,0,-3,cluster
+5170.01,Stagg St & Morgan Ave,1,1,0,cluster
+5788.13,Lafayette St & E 8 St,2,0,-2,cluster
+5108.01,Scholes St & Manhattan Ave,3,1,-2,cluster
+5450.04,N 12 St & Bedford Ave,2,2,0,cluster
+6464.09,E 44 St & Lexington Ave,1,0,-1,cluster
+5805.05,Barrow St & Hudson St,2,1,-1,cluster
+7634.01,W 106 St & Amsterdam Ave,1,1,0,cluster
+4054.02,Wolcott St & Dwight St,2,0,-2,cluster
+5626.15,1 Ave & E 6 St,3,0,-3,cluster
+5470.10,Greenwich St & Hubert St,2,1,-1,cluster
+3451.01,34 St & 5 Ave,1,0,-1,cluster
+5506.14,E 6 St & Avenue D,4,0,-4,cluster
+6608.09,E 54 St & 1 Ave,2,1,-1,cluster
+5010.02,Willoughby Ave & Wyckoff Ave,1,0,-1,cluster
+4895.09,Jay St & York St,2,2,0,cluster
+5076.04,Scholes St & Lorimer St,2,1,-1,cluster
+8344.09,University Ave & Macombs Rd,1,0,-1,cluster
+6364.07,6 Ave & W 33 St,5,1,-4,cluster
+6717.06,9 Ave & W 45 St,2,0,-2,cluster
+4422.05,Columbia St & Kane St,1,0,-1,cluster
+7062.07,18 St & 27 Ave,2,0,-2,cluster
+5262.09,Madison St & Montgomery St,2,0,-2,cluster
+6140.05,W 21 St & 6 Ave,5,0,-5,cluster
+7141.07,Central Park West & W 72 St,4,2,-2,cluster
+7636.05,E 123 St & Lexington Ave,1,0,-1,cluster
+5626.06,E 5 St & Ave A,1,1,0,cluster
+5688.02,64 St & 53 Dr,1,0,-1,cluster
+5610.09,6 Ave & Broome St,3,0,-3,cluster
+4640.01,Bushwick Ave & Harman St,1,0,-1,cluster
+4784.02,Greene Av & Myrtle Av,1,0,-1,cluster
+6602.05,W 42 St & 8 Ave,2,0,-2,cluster
+8290.01,Nelson Ave & W 172 St,1,1,0,cluster
+6593.14,W 43 St & 6 Ave,1,1,0,cluster
+6382.05,W 26 St & 10 Ave,6,2,-4,cluster
+6884.03,W 56 St & 8 Ave,1,0,-1,cluster
+7233.05,Crescent St & Ditmars Blvd,1,0,-1,cluster
+5696.03,Pier 40 - Hudson River Park,2,3,1,cluster
+5550.05,Bedford Ave & Nassau Ave,3,0,-3,cluster
+4476.03,Marcy Ave & Lafayette Ave,2,0,-2,cluster
+5270.07,Forsyth St & Canal St,4,0,-4,cluster
+7648.16,2 Ave & E 125 St,1,0,-1,cluster
+7049.04,E 82 St & East End Ave,1,1,0,cluster
+5148.03,Leonard St & Maujer St,1,0,-1,cluster
+6691.11,E 56 St & 3 Ave,2,2,0,cluster
+4936.21,Main St & Plymouth St,2,1,-1,cluster
+7188.13,Madison Ave & E 82 St,2,0,-2,cluster
+6398.08,E 35 St & Madison Ave,2,1,-1,cluster
+3978.13,Garfield Pl & 8 Ave,3,1,-2,cluster
+4546.05,Washington Park,1,1,0,cluster
+7342.01,21 Ave & Shore Blvd,1,0,-1,cluster
+4137.10,Coffey St & Conover St,1,0,-1,cluster
+4217.06,Degraw St & 3 Ave,1,0,-1,cluster
+4134.06,Berkeley Pl & 6 Ave,1,0,-1,cluster
+6215.07,W 27 St & 6 Ave,1,0,-1,cluster
+3125.09,Ocean Pkwy & Church Ave,1,0,-1,cluster
+7344.01,E 94 St & Madison Ave,1,0,-1,cluster
+5746.02,E 10 St & 2 Ave,2,1,-1,cluster
+5626.13,St Marks Pl & 1 Ave,1,1,0,cluster
+6365.10,79 St & 37 Ave,1,0,-1,cluster
+5216.06,Vesey St & Church St,1,1,0,cluster
+6280.12,E 32 St & Park Ave,1,2,1,cluster
+5847.01,Christopher St & Greenwich St,2,1,-1,cluster
+6331.01,W 31 St & 7 Ave,2,2,0,cluster
+6266.06,9 Ave & W 22 St,3,2,-1,cluster
+6526.05,8 Ave & W 38 St,4,0,-4,cluster
+6416.06,W 29 St & 9 Ave,1,0,-1,cluster
+4620.02,Adelphi St & Myrtle Ave,3,0,-3,cluster
+6248.08,5 Ave & E 30 St,1,1,0,cluster
+6650.07,E 55 St & 2 Ave,4,0,-4,cluster
+6854.05,W 50 St & 9 Ave,2,2,0,cluster
+5329.03,West St & Chambers St,3,1,-2,cluster
+6215.04,W 25 St & 6 Ave,1,1,0,cluster
+6438.04,11 St & 43 Ave,1,0,-1,cluster
+4066.15,Bedford Ave & Bergen St,1,0,-1,cluster
+5712.03,Cooper Square & Astor Pl,2,2,0,cluster
+6432.10,E 41 St & Madison Ave (SE corner),4,5,1,cluster
+6765.01,12 Ave & W 40 St,2,0,-2,cluster
+6830.02,E 63 St & 3 Ave,1,0,-1,cluster
+4386.05,Fulton St & Clermont Ave,1,0,-1,cluster
+5854.09,1 Ave & E 18 St,1,1,0,cluster
+7009.02,Steinway St & 23 Ave,2,0,-2,cluster
+6450.05,8 Ave & W 31 St,1,2,1,cluster
+4028.04,4 Ave & 3 St,1,0,-1,cluster
+5653.12,Spring St & Hudson St,2,0,-2,cluster
+6258.02,72 St & Broadway,1,0,-1,cluster
+6197.08,E 33 St & 1 Ave,3,2,-1,cluster
+6191.04,62 St & 43 Ave,1,0,-1,cluster
+6732.01,E 56 St & Madison Ave,2,1,-1,cluster
+5235.10,Driggs Ave & S 2 St,2,1,-1,cluster
+5343.11,Orchard St & Grand St,1,2,1,cluster
+7026.08,Newtown Ave & 23 St,1,0,-1,cluster
+5947.04,W 13 St & 5 Ave,1,0,-1,cluster
+7602.05,Lenox Ave & W 111 St,3,0,-3,cluster
+7643.18,Adam Clayton Powell Blvd & W 115 St,3,0,-3,cluster
+5137.11,Fulton St & William St,2,2,0,cluster
+5178.06,Graham Ave & Grand St,1,1,0,cluster
+6322.01,E 33 St & 5 Ave,1,2,1,cluster
+5288.09,Warren St & W Broadway,1,0,-1,cluster
+6560.15,Broadway & W 38 St,1,0,-1,cluster
+6345.08,E 39 St & 2 Ave,2,0,-2,cluster
+7311.02,Amsterdam Ave & W 79 St,3,0,-3,cluster
+6912.01,7 Ave & Central Park South,4,1,-3,cluster
+5156.05,S 4 St & Rodney St,2,0,-2,cluster
+7286.05,1 Ave & E 94 St,1,1,0,cluster
+5971.08,E 20 St & 2 Ave,2,1,-1,cluster
+5869.04,Huron St & Franklin St,2,1,-1,cluster
+4362.04,Pacific St & Nevins St,1,0,-1,cluster
+5905.14,University Pl & E 14 St,4,2,-2,cluster
+6904.06,5 Ave & E 63 St,1,1,0,cluster
+7293.10,E 88 St & Park Ave,1,2,1,cluster
+5755.01,Washington Pl & Broadway,2,0,-2,cluster
+8160.03,Sheridan Ave & E 168 St,2,0,-2,cluster
+7304.08,W 82 St & Central Park West,1,0,-1,cluster
+6726.01,11 Ave & W 41 St,3,1,-2,cluster
+4151.01,Smith St & 3 St,1,1,0,cluster
+4605.04,Clinton St & Joralemon St,1,0,-1,cluster
+6517.08,W 42 St & 6 Ave,3,2,-1,cluster
+7159.08,Astoria Park S & Shore Blvd,1,0,-1,cluster
+5230.02,Rutgers St & Henry St,1,2,1,cluster
+5575.08,Avenue D & E 12 St,2,0,-2,cluster
+6450.12,8 Ave & W 33 St,2,3,1,cluster
+6030.06,W 15 St & 7 Ave,2,1,-1,cluster
+5481.04,Driggs Ave & Lorimer St,1,0,-1,cluster
+4199.13,Carlton Ave & St Marks Ave,1,0,-1,cluster
+6602.03,W 41 St & 8 Ave,1,3,2,cluster
+4470.09,Lafayette Ave & Ft Greene Pl,2,1,-1,cluster
+6429.01,Queens Plaza North & Crescent St,3,0,-3,cluster
+7175.05,Columbus Ave & W 72 St,3,1,-2,cluster
+7084.12,E 81 St & York Ave,1,0,-1,cluster
+6667.04,W 47 St & 6 Ave,3,0,-3,cluster
+7188.10,E 81 St & Park Ave,1,0,-1,cluster
+5743.02,Calyer St & Jewel St,1,0,-1,cluster
+6753.08,1 Ave & E 62 St,1,2,1,cluster
+6676.02,W 45 St & 8 Ave,1,0,-1,cluster
+3966.03,Park Pl & Utica Ave,1,0,-1,cluster
+3940.04,Sigourney St & Columbia St,1,0,-1,cluster
+5184.08,West St & Liberty St,1,2,1,cluster
+4077.07,Court St & Nelson St,1,0,-1,cluster
+7587.16,W 111 St & 5 Ave,2,0,-2,cluster
+7393.09,E 97 St & Madison Ave,1,2,1,cluster
+8379.07,Creston Ave & E 178 St,1,0,-1,cluster
+3722.04,Prospect Park West & 8 St,1,0,-1,cluster
+4513.06,DeKalb Ave & Hudson Ave,1,1,0,cluster
+5137.10,Spruce St & Nassau St,1,1,0,cluster
+4010.01,Plaza St East & Flatbush Ave,2,1,-1,cluster
+6953.08,E 74 St & 1 Ave,3,0,-3,cluster
+4519.02,Greene Ave & Nostrand Ave,1,1,0,cluster
+7658.13,Frederick Douglass Blvd & W 115 St,1,1,0,cluster
+4246.02,MacDonough St & Marcy Ave,1,0,-1,cluster
+5721.01,Sullivan St & Washington Sq,2,0,-2,cluster
+4072.02,Bergen St & Buffalo Ave,1,0,-1,cluster
+4205.06,Kingston Ave & Herkimer St,1,0,-1,cluster
+6115.09,W 15 St & 10 Ave,2,1,-1,cluster
+7751.05,Wales Ave & E 147 St,2,1,-1,cluster
+4488.08,Court St & State St,1,1,0,cluster
+6148.02,W 17 St & 8 Ave,2,2,0,cluster
+5125.07,Broadway & Roebling St,1,0,-1,cluster
+5374.01,Norfolk St & Broome St,4,0,-4,cluster
+6801.01,E 59 St & Madison Ave,2,1,-1,cluster
+4762.04,Clinton Ave & Flushing Ave,2,0,-2,cluster
+4695.04,Irving Ave & Halsey St,1,0,-1,cluster
+6197.02,2 Ave & E 31 St,3,2,-1,cluster
+6055.08,E 20 St & Park Ave,3,1,-2,cluster
+5436.09,Avenue D & E 3 St,1,1,0,cluster
+5300.05,Metropolitan Ave & Meeker Ave,1,1,0,cluster
+4904.03,Cypress Hills St & Otto Rd,2,0,-2,cluster
+7818.17,W 129 St & Convent Ave,1,0,-1,cluster
+3523.06,29 St & 5 Ave,1,1,0,cluster
+4051.01,Berkeley Pl & 7 Ave,1,3,2,cluster
+4721.01,Cedar St & Evergreen Ave,1,0,-1,cluster
+6890.06,W 50 St & 10 Ave,3,2,-1,cluster
+4614.04,Atlantic Ave & Furman St,2,1,-1,cluster
+5636.11,Great Jones St,4,0,-4,cluster
+3668.04,21 St & 4 Ave,1,0,-1,cluster
+5282.02,Devoe St & Morgan Ave,1,0,-1,cluster
+7028.04,3 Ave & E 72 St,1,0,-1,cluster
+5492.05,Cleveland Pl & Spring St,1,1,0,cluster
+7372.10,5 Ave & E 93 St,1,4,3,cluster
+6756.01,W 43 St & 10 Ave,1,0,-1,cluster
+7450.05,Pleasant Ave & E 116 St,2,1,-1,cluster
+5190.09,Clinton St & Cherry St,2,0,-2,cluster
+4105.01,Pacific St & Ralph Ave,1,0,-1,cluster
+5558.04,Wythe Ave & N 13 St,1,0,-1,cluster
+4395.07,Hanson Pl & Ashland Pl,1,0,-1,cluster
+4531.05,Henry St & Atlantic Ave,1,0,-1,cluster
+8615.01,Bainbridge Ave & E 196 St,1,0,-1,cluster
+3492.04,34 St & 4 Ave,1,0,-1,cluster
+8242.04,Amsterdam Ave & W 172 St,1,1,0,cluster
+6816.07,8 Ave & W 52 St,1,2,1,cluster
+5342.10,Allen St & Hester St,1,0,-1,cluster
+6569.09,W 35 St & 9 Ave,2,0,-2,cluster
+6644.07,W 42 St & Dyer Ave,1,1,0,unresolved
+5430.10,6 Ave & Walker St,1,1,0,cluster
+4677.06,Montague St & Clinton St,2,0,-2,cluster
+6474.11,E 40 St & 5 Ave,2,3,1,cluster
+5403.05,Graham Ave & Herbert St,1,0,-1,cluster
+4446.01,Bergen St & Smith St,1,2,1,cluster
+7079.06,Central Park West & W 68 St,2,2,0,cluster
+4404.10,Bond St & Bergen St,1,0,-1,cluster
+6316.05,39 Dr & 52 St,1,1,0,cluster
+4285.09,Rockaway Ave & Bainbridge St,1,0,-1,cluster
+7458.03,W 87 St & Amsterdam Ave,3,0,-3,cluster
+4452.03,Lexington Ave & Classon Ave,1,2,1,cluster
+5379.09,Berry St & N 8 St,2,0,-2,cluster
+7935.07,Brook Ave & E 157 St,1,0,-1,cluster
+5886.13,E 20 St & FDR Dr,1,2,1,cluster
+5593.01,E 1 St & 1 Ave,4,1,-3,cluster
+4101.17,President St & 4 Ave,2,0,-2,cluster
+4847.03,Wyckoff Ave & Gates Ave,1,1,0,cluster
+7121.13,E 81 St & 1 Ave,1,0,-1,cluster
+4735.03,Putnam Ave & Wyckoff Ave,1,1,0,cluster
+6955.05,W 54 St & 11 Ave,2,4,2,cluster
+4781.03,Concord St & Bridge St,2,0,-2,cluster
+4550.05,Central Ave & Covert St,1,0,-1,cluster
+4743.04,Linden St & Knickerbocker Ave,1,0,-1,cluster
+6230.04,FDR Drive & E 35 St,1,3,2,cluster
+7713.11,W 116 St & Broadway,1,0,-1,cluster
+7691.05,Willis Ave & Bruckner Blvd,1,0,-1,cluster
+5406.02,Rivington St & Ridge St,1,0,-1,cluster
+6740.01,W 52 St & 6 Ave,2,2,0,cluster
+6541.03,E 48 St & 3 Ave,1,1,0,cluster
+6498.10,E 47 St & 2 Ave,1,4,3,cluster
+7830.03,Prospect Ave & E 151 St,1,0,-1,cluster
+7922.01,Faile St & Garrison Ave,2,0,-2,cluster
+6373.07,W 30 St & 8 Ave,1,2,1,cluster
+5114.08,South End Ave & Albany St,1,0,-1,cluster
+5359.10,Hudson St & Reade St,2,0,-2,cluster
+6809.07,W 56 St & 6 Ave,3,2,-1,cluster
+5785.05,Greenpoint Ave & Manhattan Ave,1,0,-1,cluster
+3882.05,10 St & 4 Ave,1,1,0,cluster
+5669.10,St Marks Pl & 2 Ave,2,1,-1,cluster
+4732.04,Carlton Ave & Park Ave,1,0,-1,cluster
+5051.02,Irving Ave & Jefferson St,1,1,0,cluster
+4993.13,Old Slip & South St,2,0,-2,cluster
+4016.03,Kingston Ave & Park Pl,1,0,-1,cluster
+8428.04,W Tremont Ave & Matthewson Rd,1,1,0,cluster
+7100.07,5 Ave & E 72 St,1,1,0,cluster
+6659.09,Madison Av & E 51 St,2,0,-2,cluster
+5036.06,Leonard St & Boerum St,1,0,-1,cluster
+5545.04,E 5 St & Avenue C,1,0,-1,cluster
+8619.02,Jerome Ave & W 193 St,1,0,-1,cluster
+6786.02,W 47 St & 9 Ave,1,1,0,cluster
+6611.02,W 37 St & 10 Ave,3,3,0,cluster
+4074.14,Classon Ave & St Marks Ave,1,0,-1,cluster
+7744.06,Lincoln Ave & E 138 St,1,0,-1,cluster
+4528.01,DeKalb Ave & Franklin Ave,1,0,-1,cluster
+5137.13,Spruce St & Gold St,1,0,-1,cluster
+4190.06,Grand Ave & Bergen St,1,0,-1,cluster
+7577.27,Central Park W & W 103 St,1,0,-1,cluster
+5470.12,North Moore St & Greenwich St,2,2,0,cluster
+6432.11,E 40 St & Park Ave,2,0,-2,cluster
+7538.18,Central Park W & W 97 St,2,1,-1,cluster
+4931.05,Wyckoff Av & Stanhope St,1,1,0,cluster
+6839.04,E 58 St & Madison Ave,1,1,0,cluster
+6224.05,W 20 St & 8 Ave,1,1,0,cluster
+7756.10,St. Nicholas Ave & W 126 St,1,0,-1,cluster
+8811.01,Paul Ave & Mosholu Pkwy,1,1,0,cluster
+6890.01,W 53 St & 10 Ave,1,1,0,cluster
+6822.09,1 Ave & E 68 St,1,1,0,cluster
+5752.09,Greenpoint Ave & West St,1,0,-1,cluster
+7436.11,2 Ave & E 104 St,2,1,-1,cluster
+5247.10,Reade St & Broadway,1,0,-1,cluster
+6257.03,W 24 St & 7 Ave,2,2,0,cluster
+7832.04,W 135 St & Lenox Terrace Pl,1,0,-1,cluster
+4507.07,Wilson Ave & Moffat St,1,0,-1,cluster
+5883.06,Van Dam St & Greenpoint Ave,1,1,0,cluster
+7432.04,W 90 St & Amsterdam Ave,1,2,1,cluster
+5442.05,Bayard St & Leonard St,2,0,-2,cluster
+5794.05,India St Pier,1,0,-1,cluster
+4107.13,Dean St & Franklin Ave,1,0,-1,cluster
+5303.08,Canal St & Rutgers St,2,2,0,cluster
+5084.03,Division Ave & Marcy Ave,1,0,-1,cluster
+4560.01,Madison St & Evergreen Ave,1,0,-1,cluster
+7967.04,River Ave & E 151 St,1,0,-1,cluster
+6441.01,Broadway & W 36 St,2,0,-2,cluster
+8254.01,W 170 St & University Ave,1,0,-1,cluster
+4546.04,DeKalb Ave & S Portland Ave,1,1,0,cluster
+5944.01,Franklin St & Dupont St,1,0,-1,cluster
+6422.08,E 43 St & 2 Ave,2,0,-2,cluster
+4608.01,Broadway & Kosciuszko St,1,0,-1,cluster
+7059.01,11 Ave & W 59 St,2,0,-2,cluster
+5721.07,Thompson St & Bleecker St,1,1,0,cluster
+6747.06,W 49 St & 8 Ave,3,0,-3,cluster
+7286.01,E 91 St & 2 Ave,4,1,-3,cluster
+6459.04,10 Ave & W 28 St,1,1,0,cluster
+5145.02,Albany St & Greenwich St,1,0,-1,cluster
+7504.18,E 106 St & Lexington Ave,1,1,0,cluster
+4762.05,Flushing Ave & Vanderbilt Ave,1,1,0,cluster
+6072.16,Gansevoort St & Hudson St,1,0,-1,cluster
+6107.08,W 17 St & 7 Ave,2,2,0,cluster
+7957.11,E 158 St & Melrose Ave,1,0,-1,cluster
+6865.03,21 St & 31 Dr,1,0,-1,cluster
+5929.01,E 23 St & 1 Ave,5,1,-4,cluster
+4019.06,Carroll St & 6 Ave,2,0,-2,cluster
+4665.02,Willoughby Ave & Tompkins Ave,1,0,-1,cluster
+7212.05,E 85 St & 3 Ave,1,2,1,cluster
+6332.06,74 St & 37 Ave,1,0,-1,cluster
+5989.02,W 15 St & 6 Ave,2,3,1,cluster
+6306.01,W 20 St & 10 Ave,2,1,-1,cluster
+5561.06,Lafayette St & Jersey St,1,0,-1,cluster
+7183.03,Riverside Blvd & W 67 St,4,1,-3,cluster
+6857.09,31 Ave & 30 St,1,0,-1,cluster
+6991.12,E 75 St & 3 Ave,3,0,-3,cluster
+7230.10,W 74 St & Columbus Ave,1,1,0,cluster
+4590.01,Soissons Landing,1,1,0,cluster
+3987.06,5 Ave & 3 St,1,1,0,cluster
+6824.07,W 47 St & 10 Ave,2,0,-2,cluster
+6860.12,E 65 St & 2 Ave,1,0,-1,cluster
+7382.04,W 84 St & Columbus Ave,3,2,-1,cluster
+8000.02,Concourse Village East & E 158 St,1,0,-1,cluster
+7735.23,E 128 St & Madison Ave,1,0,-1,cluster
+5335.03,Bialystoker Pl & Delancey St,1,0,-1,cluster
+7149.05,Amsterdam Ave & W 66 St,1,0,-1,cluster
+8004.03,Westchester Ave & Southern Blvd,1,0,-1,cluster
+7735.05,5 Ave & W 131 St,1,0,-1,cluster
+4010.15,Grand Army Plaza & Plaza St West,2,0,-2,cluster
+6876.04,Central Park S & 6 Ave,2,1,-1,cluster
+7524.09,West End Ave & W 94 St,1,0,-1,cluster
+4253.02,Thomas S. Boyland St & Marion St,1,1,0,cluster
+5489.04,N 11 St & Kent Ave,1,0,-1,cluster
+4422.04,Columbia St & Degraw St,1,1,0,cluster
+3993.03,Sterling Pl & Bedford Ave,1,1,0,cluster
+6098.12,Broadway & E 19 St,1,1,0,cluster
+4732.08,Carlton Ave & Flushing Ave,1,0,-1,cluster
+5453.05,Forsyth St & Broome St,2,0,-2,cluster
+6795.01,W 46 St & 11 Ave,2,0,-2,cluster
+8635.08,Grand Concourse & E 196 St,1,0,-1,cluster
+3731.11,14 St & 7 Ave,1,1,0,cluster
+5515.08,E 4 St & Ave B,2,0,-2,cluster
+7855.03,Adam Clayton Powell Blvd & W 138 St,1,1,0,cluster
+6004.06,E 27 St & 1 Ave,2,1,-1,cluster
+6206.08,E 30 St & Park Ave S,1,0,-1,cluster
+7541.01,W 95 St & Broadway,1,1,0,cluster
+8582.09,E Fordham Rd & Webster Ave,1,1,0,unresolved
+6064.08,W 18 St & 6 Ave,1,0,-1,cluster
+3379.03,5 Ave & 37 St,1,0,-1,cluster
+4125.07,7 Ave & Park Pl,2,0,-2,cluster
+7260.09,Amsterdam Ave & W 73 St,1,3,2,cluster
+4181.10,Brevoort Pl & Bedford Ave,1,0,-1,cluster
+6131.13,E 27 St & Park Ave S,1,1,0,cluster
+5914.03,W 11 St & 6 Ave,1,0,-1,cluster
+5489.03,Kent Ave & N 7 St,1,0,-1,cluster
+3742.11,Carroll St & Rochester Ave,1,0,-1,cluster
+5938.11,E 16 St & Irving Pl,1,1,0,cluster
+5763.03,Carmine St & 6 Ave,1,1,0,cluster
+5335.07,Grand St & Samuel Dickstein Plaza,1,2,1,cluster
+4939.07,Suydam St & Knickerbocker Ave,1,2,1,cluster
+5779.10,E 14 St & 1 Ave,1,1,0,cluster
+5329.08,Murray St & West St,1,0,-1,cluster
+6873.01,34th Ave & Vernon Blvd,1,0,-1,cluster
+6779.04,Broadway & W 51 St,3,5,2,cluster
+6079.03,1 Ave & E 30 St,1,1,0,cluster
+3834.10,6 St & 7 Ave,1,1,0,cluster
+5267.08,Grand St & Havemeyer St,1,0,-1,cluster
+7154.07,E 81 St & 3 Ave,1,1,0,cluster
+4617.01,Lewis Ave & Kosciuszko St,2,0,-2,unresolved
+7338.02,2 Ave & E 96 St,2,1,-1,cluster
+5593.04,E 4 St & 2 Ave,1,1,0,cluster
+6626.01,E 48 St & 5 Ave,1,4,3,cluster
+6644.08,9 Ave & W 39 St,2,0,-2,cluster
+4818.03,Union Ave & Wallabout St,1,0,-1,cluster
+6303.01,1 Ave & E 39 St,1,1,0,cluster
+6089.07,Lexington Ave & E 24 St,2,2,0,cluster
+4789.03,Clark St & Henry St,1,1,0,cluster
+5359.13,Church St & Worth St,1,0,-1,cluster
+6700.14,W 51 St & Rockefeller Plaza,1,0,-1,cluster
+6929.01,23 St & 31 Ave,1,0,-1,cluster
+3762.08,10 St & 7 Ave,1,0,-1,cluster
+8249.10,Walton Ave & E 171 St,1,0,-1,cluster
+8198.05,Shakespeare Ave & W 169 St,1,0,-1,cluster
+6464.08,E 45 St & 3 Ave,1,0,-1,cluster
+5779.11,Ave A & E 14 St,3,1,-2,cluster
+7707.08,Brook Ave & E 138 St,1,0,-1,cluster
+3928.08,Eastern Pkwy & Washington Ave,1,0,-1,cluster
+4729.01,Myrtle Ave & Lewis Ave,1,0,-1,cluster
+5659.05,E 10 St & Avenue A,2,0,-2,cluster
+5476.03,E 2 St & Avenue C,1,1,0,cluster
+6022.04,E 16 St & 5 Ave,1,2,1,cluster
+6779.05,Broadway & W 53 St,3,2,-1,cluster
+3394.03,McDonald Ave & Vanderbilt St,1,0,-1,cluster
+4258.07,Degraw St & Hoyt St,1,0,-1,cluster
+6173.08,Broadway & W 25 St,2,3,1,cluster
+5379.10,N 6 St & Bedford Ave,1,1,0,cluster
+8711.02,W 225 St & Exterior St,1,0,-1,cluster
+6319.01,45 Rd & 11 St,1,0,-1,cluster
+5204.05,S 4 St & Wythe Ave,1,1,0,cluster
+4339.01,Butler St & Court St,1,0,-1,cluster
+8149.09,Ogden Ave & W 165 St,1,0,-1,cluster
+5382.06,Grand St & Elizabeth St,1,2,1,cluster
+4683.02,Emerson Pl & Myrtle Ave,1,0,-1,cluster
+5666.11,Norman Ave & Leonard St,1,2,1,cluster
+7511.19,5 Ave & E 103 St,1,1,0,cluster
+5359.11,Leonard St & Church St,1,3,2,cluster
+6364.10,6 Ave & W 34 St,2,3,1,cluster
+8196.02,Southern Blvd & E 175 St,1,2,1,cluster
+6030.04,W 13 St & 7 Ave,1,1,0,cluster
+5001.08,Little West St & 1 Pl,2,1,-1,cluster
+6782.01,31 Ave & Steinway St,1,1,0,cluster
+7753.13,Lenox Ave & W 130 St,1,0,-1,cluster
+6300.04,Skillman Ave & 43 Ave,1,0,-1,cluster
+7720.03,Lenox Ave & W 126 St,1,1,0,cluster
+7617.07,Central Park North & Adam Clayton Powell Blvd,2,0,-2,cluster
+3625.07,Rogers Ave & Lincoln Rd,1,0,-1,cluster
+4890.11,Menahan St & Wyckoff Ave,1,2,1,cluster
+5219.05,Manhattan Ave & Devoe St,1,1,0,cluster
+7180.02,E 84 St & 1 Ave,1,0,-1,cluster
+3588.01,7 Ave & 20 St,1,0,-1,cluster
+6306.06,W 22 St & 10 Ave,1,2,1,cluster
+8021.11,Grand Concourse & E 161 St,1,1,0,cluster
+7121.02,E 80 St & 2 Ave,1,0,-1,cluster
+7311.07,W 78 St & Broadway,1,0,-1,cluster
+4821.10,Adams St & Prospect St,2,0,-2,cluster
+6190.08,9 Ave & W 18 St,2,0,-2,cluster
+3984.02,Sterling Pl & New York Ave,1,0,-1,cluster
+4148.07,Pacific St & Classon Ave,1,1,0,cluster
+7606.01,W 106 St & Central Park West,1,2,1,cluster
+7119.04,24 Ave & 29 St,1,0,-1,cluster
+3178.02,57 St & 1 Ave,1,0,-1,cluster
+6587.04,Broadway & 49 St,1,0,-1,cluster
+7020.09,1 Ave & E 78 St,1,1,0,cluster
+5025.02,Madison St & Forest Ave,1,1,0,cluster
+5250.05,Bushwick Ave & Powers St,1,0,-1,cluster
+7650.05,West End Ave & W 107 St,1,0,-1,cluster
+4077.04,Smith St & 9 St,1,0,-1,cluster
+5955.12,Perry St & Greenwich Ave,1,1,0,cluster
+5445.02,Suffolk St & Stanton St,1,2,1,cluster
+4479.06,Bond St & Fulton St,1,1,0,cluster
+5291.05,Graham Ave & Conselyea St,1,1,0,cluster
+6251.06,43 Ave & 42 St,2,0,-2,cluster
+4336.01,Monroe St & Classon Ave,1,1,0,cluster
+6313.10,Lexington Ave & E 36 St,1,0,-1,cluster
+6659.01,E 51 St & Lexington Ave,1,1,0,cluster
+6708.04,Broadway & W 48 St,2,1,-1,cluster
+5065.12,William St & Pine St,1,1,0,cluster
+5679.08,Bleecker St & Crosby St,1,2,1,cluster
+4596.09,Lawrence St & Willoughby St,1,1,0,cluster
+7580.01,W 100 St & Broadway,1,2,1,cluster
+6750.16,35 St & Broadway,1,0,-1,cluster
+7432.09,W 89 St & Columbus Ave,1,0,-1,cluster
+6551.11,E 43 St & Madison Ave,1,0,-1,cluster
+4645.04,Henry St & Remsen St,1,1,0,cluster
+8550.04,Morris Ave & E 184 St,1,0,-1,cluster
+5679.05,Mercer St & Bleecker St,1,0,-1,cluster
+4143.04,3 Ave & Carroll St,1,0,-1,cluster
+7903.02,Broadway & W 133 St,1,0,-1,cluster
+5515.02,E 2 St & Avenue B,1,1,0,cluster
+4895.03,Front St & Jay St,1,1,0,cluster
+5820.08,E 13 St & 2 Ave,1,4,3,cluster
+6569.07,W 36 St & 9 Ave,1,3,2,cluster
+7052.01,W 63 St & Broadway,1,0,-1,cluster
+5997.10,W 12 St & Hudson St,1,2,1,cluster
+3617.02,Maple St & New York Ave,1,0,-1,cluster
+3161.02,46 St & 6 Ave,1,0,-1,cluster
+3420.01,36 St & 4 Ave,1,2,1,cluster
+5669.12,E 6 St & 2 Ave,1,0,-1,cluster
+4228.06,Chauncey St & Malcolm X Blvd,1,0,-1,cluster
+6164.09,Lexington Ave & E 29 St,1,3,2,cluster
+8649.03,Bainbridge Ave & E 198 St,1,1,0,cluster
+7365.13,E 95 St & 3 Ave,1,0,-1,cluster
+6578.01,W 34 St & 11 Ave,1,2,1,cluster
+6157.04,10 Ave & W 14 St,1,1,0,cluster
+7161.08,5 Ave & E 78 St,1,1,0,cluster
+4458.06,Stuyvesant Ave & Gates Ave,1,0,-1,cluster
+8278.05,Amsterdam Ave & W 175 St,1,1,0,cluster
+4208.01,Sterling Pl & 5 Ave,1,0,-1,cluster
+6072.11,8 Ave & W 16 St,1,1,0,cluster
+6441.06,W 37 St & Broadway,1,1,0,cluster
+7741.01,Morningside Ave & W 123 St,1,1,0,cluster
+4677.01,Cadman Plaza E & Tillary St,1,0,-1,cluster
+4576.11,Lafayette Ave & Stuyvesant Ave,1,0,-1,cluster
+5308.04,Metropolitan Ave & Bedford Ave,1,0,-1,cluster
+4327.09,Putnam Ave & Nostrand Ave,1,0,-1,cluster
+7388.10,Riverside Dr & W 82 St,1,0,-1,cluster
+6289.06,Broadway & W 29 St,1,1,0,cluster
+7657.03,St. Ann's Av & Bruckner Blvd,1,0,-1,cluster
+6098.10,Broadway & E 21 St,1,1,0,cluster
+4759.02,Willoughby Ave & Myrtle Ave,1,2,1,cluster
+5065.14,Cliff St & Fulton St,1,0,-1,cluster
+5687.04,MacDougal St & Prince St,1,0,-1,cluster
+5616.01,E 9 St & Avenue C,1,1,0,cluster
+7514.01,Icahn Stadium,0,1,1,cluster
+6925.09,2 Ave & E 72 St,0,2,2,cluster
+4801.04,Melrose St & Broadway,0,1,1,cluster
+5114.06,West Thames St,0,1,1,cluster
+5980.07,E 17 St & Broadway,0,2,2,cluster
+5340.01,N 7 St & Driggs Ave,0,2,2,cluster
+4413.08,Warren St & Court St,0,1,1,cluster
+4873.08,Evergreen Ave & Noll St,0,1,1,cluster
+7688.12,Frederick Douglass Blvd & W 117 St,0,1,1,cluster
+6740.10,W 51 St & 6 Ave,0,2,2,cluster
+6319.07,45 Ave & 21 St,0,2,2,cluster
+5436.11,E Houston St & Columbia St,0,2,2,cluster
+5881.01,Tyler Ave & Maurice Ave,0,1,1,cluster
+8033.09,W 148 St & Amsterdam Ave,0,1,1,cluster
+5922.07,Perry St & Bleecker St,0,3,3,cluster
+6247.06,W 27 St & 7 Ave,0,3,3,cluster
+5093.01,Bedford Ave & S 9 St,0,1,1,cluster
+5872.10,E 9 St & 5 Ave,0,2,2,cluster
+5235.05,S 3 St & Bedford Ave,0,1,1,cluster
+5730.08,Greenwich St & W Houston St,0,3,3,cluster
+7014.12,Broadway & W 61 St,0,1,1,cluster
+4086.05,Columbia St & W 9 St,0,1,1,cluster
+5644.05,W Broadway & W Houston St,0,1,1,cluster
+3699.07,17 St & 5 Ave,0,2,2,cluster
+7243.04,E 84 St & Park Ave,0,1,1,cluster
+5411.07,Union Ave & N 12 St,0,1,1,cluster
+4962.01,Broadway & Battery Pl,0,1,1,cluster
+4781.05,Nassau St & Duffield St,0,1,1,cluster
+4864.09,Wilson Ave & Troutman St,0,2,2,cluster
+5578.02,Watts St & Greenwich St,0,2,2,cluster
+7098.05,27 Ave & 9 St,0,1,1,cluster
+7567.06,Lexington Ave & E 111 St,0,1,1,cluster
+5666.04,Meserole Ave & Manhattan Ave,0,2,2,cluster
+5068.02,Montrose Ave & Bushwick Ave,0,1,1,cluster
+5755.09,Washington Square E,0,4,4,cluster
+6617.09,E 53 St & Lexington Ave,0,3,3,cluster
+5520.09,N 15 St & Wythe Ave,0,2,2,cluster
+4707.03,Myrtle Ave & Marcy Ave,0,1,1,cluster
+6248.06,5 Ave & E 29 St,0,2,2,cluster
+7207.08,W 70 St & Amsterdam Ave,0,3,3,cluster
+7265.10,E 89 St & 3 Ave,0,1,1,cluster
+3839.02,President St & Nostrand Ave,0,1,1,cluster
+5422.04,Howard St & Lafayette St,0,1,1,cluster
+6659.03,E 53 St & Madison Ave,0,2,2,cluster
+6617.02,E 53 St & 3 Ave,0,3,3,cluster
+4110.10,3 St & Hoyt St,0,2,2,cluster
+4446.03,Pacific St & Smith St,0,1,1,cluster
+6614.01,28 St & 36 Ave,0,1,1,cluster
+4175.15,Union St & 4 Ave,0,1,1,cluster
+7235.13,E 88 St & 1 Ave,0,3,3,cluster
+4202.04,Richards St & Delavan St,0,1,1,cluster
+4342.04,Hancock St & Malcolm X Blvd,0,1,1,cluster
+3090.06,Church Ave & McDonald Ave,0,1,1,cluster
+3955.05,4 Ave & 9 St,0,1,1,cluster
+5779.08,1 Ave & E 16 St,0,3,3,cluster
+6766.03,Bulova Ave & Brooklyn Queens Expressway W,0,2,2,cluster
+4843.01,5 St & Market St,0,2,2,cluster
+3905.15,3 St & 7 Ave,0,1,1,cluster
+5971.09,E 22 St & 2 Ave,0,1,1,cluster
+6747.07,8 Ave & W 49 St,0,3,3,cluster
+4556.08,Albee Square W & Fulton St,0,1,1,cluster
+6013.12,Gramercy Park N & Gramercy Park E,0,2,2,cluster
+6756.05,W 44 St & 11 Ave,0,3,3,cluster
+6842.02,46 St & 28 Ave,0,1,1,cluster
+3952.07,Lincoln Pl & Nostrand Ave,0,1,1,cluster
+5703.13,Ave A & E 11 St,0,2,2,cluster
+5024.10,Water St & Fletcher St,0,1,1,cluster
+7092.06,E 77 St & 3 Ave,0,2,2,cluster
+4927.04,Front St & Gold St,0,1,1,cluster
+6743.06,Newton Rd & 44 St,0,1,1,cluster
+6098.02,W 20 St & 5 Ave,0,1,1,cluster
+4249.10,St Marks Pl & 4 Ave,0,1,1,cluster
+6772.11,30 Ave & 96 St,0,1,1,cluster
+4996.08,McKibbin St & Manhattan Ave,0,1,1,cluster
+6923.20,31 St & Newtown Ave,0,1,1,cluster
+5788.12,E 12 St & 3 Ave,0,1,1,cluster
+7906.13,E 150 St & Gerard Ave,0,2,2,cluster
+6233.05,W 16 St & The High Line,0,1,1,cluster
+4651.02,Clinton Ave & Myrtle Ave,0,2,2,cluster
+6532.06,E 51 St & 1 Ave,0,1,1,cluster
+4033.06,Park Pl & Franklin Ave,0,2,2,cluster
+7488.24,E 102 St & Park Ave,0,1,1,cluster
+7023.04,W 59 St & 10 Ave,0,3,3,cluster
+8226.07,W 168th S & Fort Washington Ave,0,1,1,cluster
+5797.01,MacDougal St & Washington Sq,0,4,4,cluster
+4225.14,Carroll St & Smith St,0,1,1,cluster
+4455.11,Kane St & Clinton St,0,1,1,cluster
+6605.08,34 St & 35 Ave,0,1,1,cluster
+5575.13,Avenue D & E 10 St,0,1,1,cluster
+4945.06,Fresh Pond Rd & 69 Ave,0,1,1,cluster
+4452.01,Lafayette Ave & Classon Ave,0,1,1,cluster
+6893.10,31 Ave & Crescent St,0,1,1,cluster
+7365.08,E 97 St & 3 Ave,0,1,1,cluster
+7020.02,E 77 St & 1 Ave,0,3,3,cluster
+4979.07,Knickerbocker Ave & George St,0,1,1,cluster
+5117.05,Stagg St & Union Ave,0,1,1,cluster
+3879.04,Union St & Bedford Ave,0,1,1,cluster
+4243.01,Commerce St & Van Brunt St,0,1,1,cluster
+4846.01,South St & Whitehall St,0,1,1,cluster
+7821.01,Morris Ave & E 142 St,0,1,1,cluster
+8356.02,E Tremont Ave & E 176 St,0,1,1,cluster
+4565.07,Schermerhorn St & Court St,0,1,1,cluster
+4461.01,Clermont Ave & Lafayette Ave,0,1,1,cluster
+5288.12,Murray St & Greenwich St,0,2,2,cluster
+6134.03,Greenpoint Ave & 47 St,0,1,1,cluster
+6789.04,31 St & Broadway,0,1,1,cluster
+4222.02,Lefferts Pl & Franklin Ave,0,1,1,cluster
+5561.04,Mott St & Prince St,0,1,1,cluster
+4812.02,Nassau St & Navy St,0,1,1,cluster
+7059.08,West End Ave & W 60 St,0,3,3,cluster
+5788.15,4 Ave & E 12 St,0,2,2,cluster
+5167.06,St James Pl & Pearl St,0,1,1,cluster
+5159.07,South St & Pike St,0,1,1,cluster
+5134.09,Broadway & Kent Ave,0,1,1,cluster
+4366.10,Decatur St & Saratoga Ave,0,1,1,cluster
+5914.08,Greenwich Ave & Charles St,0,1,1,cluster
+5687.11,King St & Varick St,0,1,1,cluster
+6398.06,W 37 St & 5 Ave,0,1,1,cluster
+5365.02,Columbia St & Rivington St,0,1,1,cluster
+5303.06,Clinton St & Grand St,0,2,2,cluster
+5369.01,Grand Ave & 55 St,0,1,1,cluster
+7579.01,Pleasant Ave & E 120 St,0,2,2,cluster
+4001.09,St Johns Pl & Washington Ave,0,1,1,cluster
+5659.11,E 11 St & Avenue B,0,1,1,cluster
+5175.08,Fulton St & Broadway,0,2,2,cluster
+3169.07,53 St & 4 Ave,0,1,1,cluster
+7453.01,Central Park W & W 91 St,0,2,2,cluster
+6932.15,E 68 St & Madison Ave,0,1,1,cluster
+5938.01,E 19 St & 3 Ave,0,1,1,cluster
+5905.12,Broadway & E 14 St,0,2,2,cluster
+3966.01,St Johns Pl & Utica Ave,0,1,1,cluster
+4812.04,Sands St Gate,0,3,3,cluster
+4668.08,Johnson St & Gold St,0,1,1,cluster
+6039.06,Washington St & Gansevoort St,0,1,1,cluster
+6569.08,W 35 St & Dyer Ave,0,1,1,cluster
+6072.06,Greenwich Ave & 8 Ave,0,2,2,cluster
+7860.08,Convent Ave & W 135 St,0,1,1,cluster
+6352.01,44 Dr & Jackson Ave,0,1,1,cluster
+7858.02,Bergen Ave & E 152 St,0,2,2,cluster
+4582.08,Knickerbocker Ave & Moffat St,0,1,1,cluster
+5746.14,E 11 St & 1 Ave,0,3,3,cluster
+4060.09,Carroll St & 5 Ave,0,1,1,cluster
+4455.10,Congress St & Clinton St,0,1,1,cluster
+4689.03,Suydam St & Broadway,0,1,1,cluster
+5391.06,Lispenard St & Broadway,0,1,1,cluster
+7812.01,E 149 St & Jackson Ave,0,2,2,cluster
+7966.02,E 165 St & Fox St,0,1,1,cluster
+6762.02,E 58 St & 3 Ave,0,1,1,cluster
+5348.02,Wythe Ave & Metropolitan Ave,0,1,1,cluster
+5656.03,N Henry St & Norman Ave,0,1,1,cluster
+4310.06,Macon St & Lewis Ave,0,1,1,cluster
+7253.04,Central Park West & W 76 St,0,1,1,cluster
+5270.05,Pike St & E Broadway,0,2,2,cluster
+8720.02,Jerome Ave & E 198 St,0,1,1,cluster
+4903.09,Dock St & Front St,0,1,1,cluster
+4172.04,Herkimer St & New York Ave,0,1,1,cluster
+7703.14,E 141 St & Jackson Ave,0,1,1,cluster
+4880.11,Madison St & Seneca Ave,0,1,1,cluster
+5509.02,Washington St & Laight St,0,1,1,cluster
+7723.01,St Nicholas Ave & Manhattan Ave,0,1,1,cluster
+6896.16,E 68 St & 3 Ave,0,1,1,cluster
+5826.02,India St & Manhattan Ave,0,2,2,cluster
+5351.07,Walker St & Baxter St,0,1,1,cluster
+7701.21,5 Ave & W 126 St,0,1,1,cluster
+5187.03,Hope St & Union Ave,0,1,1,cluster
+3564.04,30 St & 4 Ave,0,1,1,cluster
+7538.14,W 100 St & Manhattan Ave,0,1,1,cluster
+8111.07,River Ave & McClellan St,0,1,1,cluster
+8307.05,Macombs Rd & Featherbed Ln,0,1,1,cluster
+4993.02,Pearl St & Hanover Square,0,1,1,cluster
+4672.01,Menahan St & Central Ave,0,2,2,cluster
+5779.09,E 13 St & Avenue A,0,1,1,cluster
+6046.02,E 25 St & 2 Ave,0,2,2,cluster
+7759.08,Willis Ave & E 141 St,0,1,1,cluster
+6806.06,35 Ave & 10 St,0,1,1,cluster
+5736.09,E 14 St & Avenue B,0,1,1,cluster
+3771.06,14 St & 5 Ave,0,1,1,cluster
+6356.01,87 St & Roosevelt Ave,0,1,1,cluster
+7670.09,Adam Clayton Powell Blvd & W 118 St,0,1,1,cluster
+7146.04,E 85 St & York Ave,0,1,1,cluster
+6179.07,Center Blvd & 51 Ave,0,1,1,cluster
+5712.12,E 5 St & Cooper Sq,0,1,1,cluster
+7879.01,Melrose Ave & E 150 St,0,3,3,cluster
+5484.09,Allen St & Stanton St,0,2,2,cluster
+7599.09,E 115 St & Lexington Ave,0,1,1,cluster
+4689.08,Stuyvesant Ave & Hart St,0,1,1,cluster
+8024.05,E 169 St & Fox St,0,1,1,cluster
+7646.04,W 110 St & Amsterdam Ave,0,1,1,cluster
+3368.04,Caton Ave & Bedford Ave,0,1,1,cluster
+4228.02,Fulton St & Utica Ave,0,1,1,cluster
+5414.07,Delancey St & Eldridge St,0,1,1,cluster
+7344.05,E 91 St & Park Ave,0,1,1,cluster
+8795.01,Jerome Ave & E Mosholu Pkwy S,0,1,1,cluster
+7983.02,Longfellow Ave & Aldus St,0,1,1,cluster
+7323.09,5 Ave & E 87 St,0,1,1,cluster
+6379.03,1 Ave & E 44 St,0,1,1,cluster
+4494.04,Lafayette Ave & St James Pl,0,1,1,cluster
+7204.08,E 89 St & York Ave,0,2,2,cluster
+8126.07,Grand Concourse & E 167 St,0,1,1,cluster
+4010.13,Plaza St West & Flatbush Ave,0,1,1,cluster
+7360.10,Amsterdam Ave & W 82 St,0,1,1,cluster
+4042.08,Underhill Ave & Lincoln Pl,0,1,1,cluster
+6471.02,21 St & Queens Plaza North,0,1,1,cluster
+5164.05,Broadway & Berry St,0,1,1,cluster
+7443.01,Madison Ave & E 99 St,0,1,1,cluster
+3902.06,Eastern Pkwy & Kingston Ave,0,1,1,cluster
+5445.07,Stanton St & Norfolk St,0,1,1,cluster
+5626.07,E 7 St & Avenue A,0,2,2,cluster
+5569.07,West Broadway & Watts St,0,1,1,cluster
+4821.03,Sands St & Jay St,0,1,1,cluster
+5270.08,Division St & Bowery,0,1,1,cluster
+4479.10,Schermerhorn St & Hoyt St,0,2,2,cluster
+3199.01,Caton Ave & E 7 St,0,1,1,cluster
+5489.06,N 9 St & Wythe Ave,0,1,1,cluster
+5021.05,Kent Ave & Division Ave,0,1,1,cluster
+4380.08,Henry St & Degraw St,0,1,1,cluster
+7284.01,21 Ave & Crescent St,0,1,1,cluster
+8327.15,Featherbed Ln & Nelson Ave,0,1,1,cluster
+8175.06,College Ave & E 170 St,0,1,1,cluster
+6920.03,W 54 St & 9 Ave,0,1,1,cluster
+7543.15,3 Ave & E 112 St,0,1,1,cluster
+5300.06,Union Ave & Jackson St,0,1,1,cluster
+5896.01,E 17 St & 2 Ave,0,1,1,cluster
+7619.05,W 107 St & Columbus Ave,0,1,1,cluster
+3538.09,11 Ave & Prospect Ave,0,1,1,cluster
+6224.03,W 22 St & 8 Ave,0,1,1,cluster
+8707.01,Goulden Ave & W 197 St,0,1,1,cluster
+6101.11,48 Ave & 41 St,0,1,1,cluster
+4968.03,Bridge St & Water St,0,1,1,cluster
+4054.06,Dwight St & Dikeman St,0,1,1,cluster
+4965.01,Lorimer St & Broadway,0,1,1,cluster
+8036.05,Morris Ave & E 163 St,0,2,2,cluster
+7502.01,W 92 St & Broadway,0,2,2,cluster
+5159.04,Pike St & Monroe St,0,1,1,cluster
+7981.16,Broadway & W 142 St,0,1,1,cluster
+5354.01,Morgan Ave & Maspeth Ave,0,1,1,cluster
+5458.02,N 5 St & Northside Piers,0,1,1,cluster
+4231.04,Underhill Ave & Pacific St,0,1,1,cluster
+5288.08,Park Pl & Church St,0,1,1,cluster
+6670.03,43 St & Broadway,0,1,1,cluster
+6711.13,Steinway St & Broadway,0,1,1,cluster
+7798.02,Willis Ave & E 143 St,0,1,1,cluster
+3625.04,Bedford Ave & Maple St,0,1,1,cluster
+6435.03,50 St & Barnett Ave,0,1,1,cluster
+6626.11,W 48 St &  Rockefeller Plaza,0,1,1,cluster
+3803.09,6 Ave & 9 St,0,1,1,cluster
+5545.01,E 7 St & Ave C,0,1,1,cluster
+7116.04,W 67 St & Broadway,0,1,1,cluster
+7655.22,Lenox Ave & W 117 St,0,1,1,cluster
+4829.01,Columbia Heights & Cranberry St,0,1,1,cluster
+4033.16,Sterling Pl & Franklin Ave,0,1,1,cluster
+4553.04,Kosciuszko St & Tompkins Ave,0,1,1,cluster
+5922.04,Greenwich St & Perry St,0,1,1,cluster
+7018.01,31 St & Hoyt Ave N,0,1,1,cluster
+3660.07,7 Ave & 17 St,0,1,1,cluster
+6545.07,Broadway & 51 St,0,1,1,cluster
+5838.09,Washington Pl & 6 Ave,0,2,2,cluster
+4615.01,Wyckoff Ave & Cooper Ave,0,1,1,cluster
+4840.06,Beaver St & Fayette St,0,1,1,cluster
+8052.02,E 165 St & Clay Ave,0,1,1,cluster
+3931.09,Bay St & Court St,0,1,1,cluster
+5922.08,Bank St & Hudson St,0,1,1,cluster
+5550.09,Leonard St & Nassau Ave,0,1,1,cluster
+5964.01,Bank St & Washington St,0,1,1,cluster
+4889.06,Bus Slip & State St,0,1,1,cluster
+5805.07,7 Ave S & Bleecker St,0,1,1,cluster
+5034.03,Menahan St & Onderdonk Ave,0,1,1,cluster
+6662.01,49 St & 31 Ave,0,1,1,cluster
+5406.04,Pitt St & Stanton St,0,1,1,cluster
+4656.03,Pulaski St & Marcus Garvey Blvd,0,1,1,cluster
+5096.12,Peck Slip & South St,0,1,1,cluster
+5294.04,Henry St & Grand St,0,1,1,cluster
+7281.09,W 76 St & Columbus Ave,0,1,1,cluster
+8009.05,Adam Clayton Powell Blvd & W 151 St,0,1,1,cluster
+6182.02,W 20 St & 7 Ave,0,1,1,cluster
+7291.06,Ditmars Blvd & 19 St,0,1,1,cluster
+8546.06,Tiebout Ave & E Fordham Road,0,1,1,cluster
+2883.03,3 Ave & Wakeman Pl,0,1,1,cluster
+5636.13,E 1 St & Bowery,0,1,1,cluster
+6495.17,31 St & Northern Blvd,0,1,1,cluster
+4596.05,Duffield St & Willoughby St,0,1,1,cluster
+3233.06,44 St & 6 Ave,0,1,1,cluster
+5847.06,W 10 St & Washington St,0,1,1,cluster
+3460.04,2 Av & 37 St,0,1,1,cluster
+4526.01,Grove St & Broadway,0,1,1,cluster
+7627.10,Lenox Ave & W 115 St,0,1,1,cluster
+7528.31,E 106 St & Madison Ave,0,1,1,cluster
+4334.02,Halsey St & Ralph Ave,0,1,1,cluster
+7540.02,E 114 St & 1 Ave,0,1,1,cluster
+6310.06,27 St & Hunter St,0,1,1,cluster
+3628.11,6 Ave & 21 St,0,1,1,cluster
+7783.18,Broadway & W 122 St,0,1,1,cluster
+6809.09,W 55 St & 6 Ave,0,1,1,cluster
+4437.01,3 Ave & Schermerhorn St,0,1,1,cluster
+4697.01,Throop Ave & Myrtle Ave,0,1,1,cluster
+5902.07,Eagle St & Manhattan Ave,0,1,1,cluster
+3946.07,1 St & 6 Ave,0,1,1,cluster
+4217.02,Douglass St & 3 Ave,0,1,1,cluster
+4214.03,Macon St & Nostrand Ave,0,1,1,cluster
+7623.13,Riverside Dr & W 104 St,0,1,1,cluster
+7178.02,23 Ave & 27 St,0,1,1,cluster
+4751.01,Cedar St & Myrtle Ave,0,1,1,cluster
+6969.08,E 66 St & Madison Ave,0,1,1,cluster
+4441.06,Broadway & Hancock St,0,1,1,cluster
+5351.03,Bayard St & Baxter St,0,1,1,cluster

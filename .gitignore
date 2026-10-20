@@ -1,0 +1,31 @@
+# Raw large datasets
+Dataset.csv
+*.csv.zip
+*.csv.gz
+
+# Academic / personal raw reports containing student/instructor identities
+ProjeRaporu.pdf
+ProjeRaporu.qmd
+
+# Legacy single-file scripts
+Proje.jl
+extract_sample.jl
+
+# Julia artifacts
+*.jl.cov
+*.jl.*.cov
+# Manifest.toml is intentionally tracked for reproducible package resolution.
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary output logs
+*.log

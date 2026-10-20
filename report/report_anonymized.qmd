@@ -1,0 +1,33 @@
+---
+title: "Citi Bike Rebalancing Optimization"
+author: "Portfolio Project"
+format: html
+---
+
+## Amaç
+
+Bu çalışma, Citi Bike istasyonları arasındaki yeniden dengeleme problemini Minimum Maliyetli Ağ Akışı modeli olarak ele alır. Deney, `data/sample_trips.csv` içindeki 750 temiz kayıttan oluşan yeniden üretilebilir örneklem üzerinde yürütülür.
+
+Doğrulanmış çalıştırmada tam denge kayıt defterinde 817 istasyon vardır: 364 arz, 331 talep ve 122 dengeli. 814 istasyonun koordinatı çözülmüştür; optimizasyon ağı 694 düğümden (364 arz, 330 talep) oluşur. `6644.07`, `8582.09` ve `4617.01` istasyonları çözülememiş, ancak kayıt defterinde korunmuştur. Model 420 aktif eşleşmede 463 bisiklet taşımış ve 255.32 bike-km amaç değeri üretmiştir. Ağırlıklı ortalama 0.551 km/bisiklet, basit ortalama 0.563 km/eşleşme, medyan 0.446 km, minimum 0.060 km ve maksimum 2.596 km’dir.
+
+## Veri ve koordinatlar
+
+İstasyon kimlikleri metin olarak işlenir; böylece `6839.10` gibi sondaki sıfırlar kaybolmaz. Yetkili istasyon koordinatları sağlanırsa bunlar kullanılır. Aksi durumda her istasyon için 500 metre içindeki medoid kümelerinden baskın olan seçilir. Baskın kümesi bulunmayan çelişkili istasyonlar `unresolved` olarak denge dosyasında tutulur, ancak mesafe modeline alınmaz; konum uydurulmaz ve çelişkili okumalar körlemesine ortalanmaz.
+
+## Model
+
+Pozitif net değişim arzı, negatif net değişim talebi gösterir. $x_{ij}$, arz istasyonu $i$ ile talep istasyonu $j$ arasındaki transfer miktarıdır. Amaç, arz ve talep sınırları ile toplam akış kısıtı altında toplam bike-km değerini en aza indirmektir. Haversine mesafeleri kuş uçuşu düz mesafelerdir; yol mesafesi, araç kilometresi veya seyahat süresi değildir.
+
+## Yeniden üretim
+
+```bash
+julia --project=. -e "using Pkg; Pkg.instantiate()"
+julia --project=. src/rebalance_optimization.jl
+julia --project=. test/runtests.jl
+```
+
+Sonuç tablosu ve istasyon denge tablosu model tarafından yeniden üretilir. Sayısal sonuçlar çalıştırma çıktısından ve güncel CSV dosyalarından okunmalıdır; tarihsel sonuçlar bu rapora sabitlenmemiştir.
+
+## Sınırlılıklar
+
+Örneklem fiziksel istasyon kapasitesini, zaman pencerelerini, araç kapasitesini, gerçek yol ağını veya işçilik maliyetini modellemez. Üretim kullanımı için yetkili istasyon verisi ve araç rotalama katmanı eklenmelidir.
